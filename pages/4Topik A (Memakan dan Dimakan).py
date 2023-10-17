@@ -90,7 +90,11 @@ with tab1:
         st.video("https://youtube.com/watch?v=Hlloahtfe7o&feature=share")
         st.write("---")
         st.write("Nah setelah kalian mempelajari bahan ajar dan mengamati video pembelajaran tersebut, tentu sekarang kalian sudah paham tentang Rantai makanan dan Jaring-jaring makanan")
-        st.write("Untuk mengukur pemahaman kalian, mari kerjakan kuis dengan menekan tombol KUIS TOPIK A pada bagian atas   ⬆⬆⬆")
+        st.write("Mari bermain peran untuk mempraktikkan rantai makanan dalam suatu ekosistem, seperti pada LKPD berikut.")
+        st.image('https://64.media.tumblr.com/810e3cce24ebd0dfa4d018e000fdaa62/70e23cdb3514318b-b2/s540x810/9f9a2ba0dba2cb1556e769458423c48c23a15b48.pnj')
+        st.write('[Klik disini untuk melihat LKPD Selengkapnya](https://64.media.tumblr.com/61e10cfdc8435822543b6c28011d3b4d/4b02d4f80b15990e-86/s1280x1920/cdbce02b767ad65be90f7f49fe7d8a0e5f75ae8d.pnj)')
+        st.write("---")
+        st.write("Setelah kalian melakukan praktik rantai makanan dalam suatu ekosistem, mari kerjakan kuis untuk mengukur pemahaman kalian mengenai materi memakan dan dimakan dengan menekan tombol KUIS TOPIK A pada bagian atas   ⬆⬆⬆")
         
 #Kuis
 # KUIS
