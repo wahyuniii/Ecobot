@@ -156,7 +156,7 @@ with tab2:
         return selected_option
 
     def main():
-        st.title('Kuiz Topik B- Transfer Energi Antarmakhluk Hidup')
+        st.title('Kuis Topik B- Transfer Energi Antarmakhluk Hidup')
         st.write('Jawablah pertanyaan berikut dengan menekan bulatan pada opsi jawaban yg menurut kamu benar!')
         questions = generate_questions()
         num_questions = len(questions)
