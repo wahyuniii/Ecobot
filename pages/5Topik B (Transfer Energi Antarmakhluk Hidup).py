@@ -65,7 +65,7 @@ with tab1:
             st.image("https://64.media.tumblr.com/f3876bbefe4c27292ef8e65222a6ac1e/eb4629e1d6c5670a-4e/s2048x3072/8eee55d28a4447d01db533159197854c8ad09805.pnj")
             st.write("---")
             st.write("Untuk memahami langkah-langkah percobaan, simak video berikut!")
-            st.video("https://youtu.be/Exa2ns600WY")
+            st.video("https://youtu.be/ZjygpFt8iYE?si=BLaUczyqxm38MsAy")
         st.write("---")
         st.write("---")
         st.write("Untuk mengukur pemahaman kamu mengenai transfer energi, mari kerjakan kuis dengan menekan tombol KUIS TOPIK B pada bagian atas   ⬆⬆⬆")
