@@ -67,7 +67,7 @@ with tab2:
 
 with tab3:
    st.header("Alur Tujuan Pembelajaran(ATP)")
-   st.image("https://64.media.tumblr.com/5488c65036cd6f724b9c1612d29a3012/651b9c5590e2e8d0-bd/s640x960/0efe086b7db9223a527cba61ab7b252b73a28434.pnj")
+   st.image("https://64.media.tumblr.com/436a1b08cdf712552e01419500a00517/706ae97fd05ddf74-fe/s640x960/5e56909ffd59d78e774a139904ca237e0e764aec.pnj")
 
 st.write("---")
 
