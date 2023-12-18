@@ -63,7 +63,7 @@ with tab1:
    st.image("https://64.media.tumblr.com/0e7f02c2b423e81c9fd30bf10c10c5db/36ed59391e9ac7b6-2d/s1280x1920/f0c34240ccd2a6a3af36053672e9475d98ca4c0b.pnj")
 with tab2:
    st.header("Tujuan Pembelajaran")
-   st.image("https://64.media.tumblr.com/115ab57952922a97ba2aa1afa428ffaa/b53d2005dfafa745-ee/s640x960/c18c4a265d9c9228e8f7e036db46312bd338d40f.pnj")
+   st.image("https://64.media.tumblr.com/1612d3642838c3722824adac04f7f07c/220c0ba53f228f31-86/s640x960/fa9913c19a5fad69f488ac1bb0ce5de24b2c23c6.pnj")
 
 with tab3:
    st.header("Alur Tujuan Pembelajaran(ATP)")
