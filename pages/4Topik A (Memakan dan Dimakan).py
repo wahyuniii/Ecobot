@@ -38,13 +38,11 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Mulai Title
 st.title("TOPIK A (MEMAKAN DAN DIMAKAN)")
-st.write("---")
 
 tab1, tab2 = st.tabs(["MATERI TOPIK A", "KUIS TOPIK A"])
 
 with tab1:
     st.header("Rantai Makanan dan Jaring-jaring Makanan")
-    st.write("---")
     st.image("https://64.media.tumblr.com/fd0df2dd01829388f3ec810cc2133b53/9e59a35d4432ad71-03/s640x960/6b0cb9e6d39d9ca9ab42bc42754a77c6f18a6900.pnj")
     st.subheader("Apa maksud dari gambar di atas?")
     st.write("Charlie dan Zayn sedang berkeliling kebun dan mereka melihat seekor laba-laba yang akan memakan belalang. Charlie berinisiatif untuk menyelamatkan belalang, tetapi Zayn mencegah Charlie karena takut laba-laba akan kelaparan jika tidak memangsa belalang.")
